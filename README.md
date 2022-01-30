@@ -9,6 +9,8 @@
 # 5) in the key, value pairs, value can be of multiple item
 # 6) in case of multiple values for a key, we have to use list by using hyphen(-)
 # 7) if there are multiple childs to parent, all the child should be having same indendation
+# 8) string can be mentioned using either single quotes or double quotes and without quotes as well. mostly if a string 
+# 9) we have to explicitly mention the datatype for the YAML to get detected.
 
 
 # Extensions := .yaml or .yml 
